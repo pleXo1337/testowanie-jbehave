@@ -1,0 +1,10 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu Feb 01 16:47:18 CET 2018
+SimpleForm.story=0
+JQueryDownloadBar.story=0
+JavaScriptAlerts.story=0
+threads=1
+total=6000
+threadAverage=6000
+BasicCheckbox.story=3000
+BasicRadioButton.story=3000
